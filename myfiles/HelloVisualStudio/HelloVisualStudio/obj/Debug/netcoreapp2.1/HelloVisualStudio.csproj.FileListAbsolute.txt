@@ -1,0 +1,11 @@
+C:\revature\directory1\myfiles\HelloVisualStudio\HelloVisualStudio\bin\Debug\netcoreapp2.1\HelloVisualStudio.deps.json
+C:\revature\directory1\myfiles\HelloVisualStudio\HelloVisualStudio\bin\Debug\netcoreapp2.1\HelloVisualStudio.runtimeconfig.json
+C:\revature\directory1\myfiles\HelloVisualStudio\HelloVisualStudio\bin\Debug\netcoreapp2.1\HelloVisualStudio.runtimeconfig.dev.json
+C:\revature\directory1\myfiles\HelloVisualStudio\HelloVisualStudio\bin\Debug\netcoreapp2.1\HelloVisualStudio.dll
+C:\revature\directory1\myfiles\HelloVisualStudio\HelloVisualStudio\bin\Debug\netcoreapp2.1\HelloVisualStudio.pdb
+C:\revature\directory1\myfiles\HelloVisualStudio\HelloVisualStudio\obj\Debug\netcoreapp2.1\HelloVisualStudio.csprojAssemblyReference.cache
+C:\revature\directory1\myfiles\HelloVisualStudio\HelloVisualStudio\obj\Debug\netcoreapp2.1\HelloVisualStudio.csproj.CoreCompileInputs.cache
+C:\revature\directory1\myfiles\HelloVisualStudio\HelloVisualStudio\obj\Debug\netcoreapp2.1\HelloVisualStudio.AssemblyInfoInputs.cache
+C:\revature\directory1\myfiles\HelloVisualStudio\HelloVisualStudio\obj\Debug\netcoreapp2.1\HelloVisualStudio.AssemblyInfo.cs
+C:\revature\directory1\myfiles\HelloVisualStudio\HelloVisualStudio\obj\Debug\netcoreapp2.1\HelloVisualStudio.dll
+C:\revature\directory1\myfiles\HelloVisualStudio\HelloVisualStudio\obj\Debug\netcoreapp2.1\HelloVisualStudio.pdb

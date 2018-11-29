@@ -1,0 +1,11 @@
+C:\revature\directory1\myfiles\csharpbasics\csharpbasics\bin\Debug\netcoreapp2.1\csharpbasics.deps.json
+C:\revature\directory1\myfiles\csharpbasics\csharpbasics\bin\Debug\netcoreapp2.1\csharpbasics.runtimeconfig.json
+C:\revature\directory1\myfiles\csharpbasics\csharpbasics\bin\Debug\netcoreapp2.1\csharpbasics.runtimeconfig.dev.json
+C:\revature\directory1\myfiles\csharpbasics\csharpbasics\bin\Debug\netcoreapp2.1\csharpbasics.dll
+C:\revature\directory1\myfiles\csharpbasics\csharpbasics\bin\Debug\netcoreapp2.1\csharpbasics.pdb
+C:\revature\directory1\myfiles\csharpbasics\csharpbasics\obj\Debug\netcoreapp2.1\csharpbasics.csprojAssemblyReference.cache
+C:\revature\directory1\myfiles\csharpbasics\csharpbasics\obj\Debug\netcoreapp2.1\csharpbasics.csproj.CoreCompileInputs.cache
+C:\revature\directory1\myfiles\csharpbasics\csharpbasics\obj\Debug\netcoreapp2.1\csharpbasics.AssemblyInfoInputs.cache
+C:\revature\directory1\myfiles\csharpbasics\csharpbasics\obj\Debug\netcoreapp2.1\csharpbasics.AssemblyInfo.cs
+C:\revature\directory1\myfiles\csharpbasics\csharpbasics\obj\Debug\netcoreapp2.1\csharpbasics.dll
+C:\revature\directory1\myfiles\csharpbasics\csharpbasics\obj\Debug\netcoreapp2.1\csharpbasics.pdb

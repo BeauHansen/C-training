@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\revature\\directory1\\myfiles\\ExceotionHandling\\ExceotionHandling.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
